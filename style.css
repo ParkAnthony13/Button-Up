@@ -1,0 +1,29 @@
+input {
+    margin: .5%;
+}
+
+.search {
+    background-color: white;
+    color: turquoise;
+    font-size: larger;
+    border: 2px solid turquoise;
+    border-radius: 28px;
+    padding: 5px 50px;
+}
+
+.plus {
+    background-color: turquoise;
+    color: white;
+    font-size: larger;
+    border-style: none;
+    border-radius: 24px;
+}
+
+.create {
+    background-color:dodgerblue;
+    color: white;
+    font-size: larger;
+    border: 2px solid black;
+    padding: 8px 30px;
+    box-shadow: 5px 5px black;
+}
